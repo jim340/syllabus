@@ -1,5 +1,6 @@
 # syllabus
 ## Aptitude: Quantitative Aptitude Topics
+```
 Numbers
 LCM and HCF
 Work and Wages
@@ -29,8 +30,9 @@ Coding-Decoding
 Race
 Simplification and Approximation
 Data Interpretation 
-     
+ ```    
 ## Aptitude: Logical Reasoning Topics
+```
 Number Series
 Letter and Symbol Series
 Verbal Classification
@@ -54,8 +56,9 @@ Coding Decoding
 Assertion and Reason
 Statement and Assumptions
 Logical Venn Diagram
- 
+ ```
 ## Aptitude: Verbal Ability Topics
+```
 Spotting Errors
 Synonyms
 Antonyms
@@ -78,3 +81,4 @@ Verbal Analogies
 Articles
 Preposition
 Adjectives
+```
